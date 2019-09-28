@@ -1,0 +1,5 @@
+3 Observable Trends:
+
+1. Max temperatures are highest near/at the equator
+2. Humidity levels are pretty high near/further from the equator
+3. Cloudiness ranges from city to city, with the latitude not seeming to affect cloudiness levels
